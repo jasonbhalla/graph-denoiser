@@ -3,4 +3,4 @@
 
 This project began in October 2025, and I am working on adding more functionailty for the 3 areas of interest.
 
-This is a WORK IN PROGRESS, but tangible results can already be seen!
+This is a WORK IN PROGRESS, but tangible results can already be seen after training the GNN on both the original and our cleaned graph!
